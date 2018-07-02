@@ -1,0 +1,112 @@
+
+.header{
+	background:url(img/img1.png)no-repeat center center/100% 100%;
+	padding:20px;
+}
+
+.header2{
+	
+	padding:40px 0 150px 0;
+}
+
+.shuvo1 p{
+	color:#cb1c1d;
+	padding:15px;
+	font-family: 'Oswald', sans-serif;
+}
+.shuvo2 a:hover{
+	background:none !important;
+}
+.shuvo2 a{
+	color:#ffffff;
+}
+
+.shuvo3 h4{
+	padding:30px;
+	color:#ffffff;
+	opacity: 0.5;
+	font-size:17px;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	word-spacing:5px;
+		font-family: 'Open Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+}
+.shuvo3 h1{
+	font-family: 'Open Sans', sans-serif;
+	color:#ffffff;
+	text-transform: uppercase;
+}
+.shuvo4{
+	width:20%;
+	margin:0 auto;
+	padding:30px;
+}
+.shuvo6 a img{
+	padding:30px;
+}
+
+.shuvo7{
+	background:url(img/img5.png)no-repeat center center/100% 100%;
+	padding:20px;
+}
+.shuvo8 h3{
+	color:#dc0000;
+}
+
+.shuvo9 button{
+	background:none;
+	padding:px;
+	
+}
+.shuvo9{
+	padding:30px 0 0 0;
+}
+.shuvo10 button{
+	background:none;
+
+	
+}
+.shuvo10{
+	padding:5px 0 0 0;
+}
+.shuvo11 h2{
+	padding:10px 0 10px 0;
+	color:red;
+}
+.shuvo11 h6{
+	padding:10px 0 10px 0;
+	
+}
+.shuvo11 p{
+	padding:10px 0 10px 0;
+	
+}
+.shuvo11 button{
+	margin:10px 0 10px 0;
+	
+}
+.shuvo12{
+	padding:20px;
+}
+.shuvo13{
+	background:url("img/img11.png") no-repeat center center/100% 100%;
+	padding:40px 0 40px 0;
+}
+.shuvo13 h6{
+	
+	color:white;
+}
+.shuvo14{
+	
+	background:none;
+}
+.shuvo15{
+	    margin: 32px 0 0 0;
+}
+.shuvo16{
+	padding:30px 0 30px 0;
+}
+
+
+
